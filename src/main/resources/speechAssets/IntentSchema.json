@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "WatchNextIntent",
+      "slots": [
+        {
+          "name": "show",
+          "type": "SHOW"
+        }
+      ]
+    }
+  ]
+}
