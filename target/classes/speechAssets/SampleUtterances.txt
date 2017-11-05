@@ -1,2 +1,0 @@
-WatchNextIntent play the next episode of {show}
-WatchNextIntent play {show}

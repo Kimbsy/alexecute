@@ -8,7 +8,7 @@ import com.amazon.speech.ui.SimpleCard;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import alexecute.request.RequestType;
+import com.kimbsy.dispatch.lib.request.RequestType;
 
 import java.util.Collections;
 

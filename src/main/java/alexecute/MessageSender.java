@@ -1,7 +1,7 @@
 package alexecute;
 
-import alexecute.request.Request;
-import alexecute.request.RequestType;
+import com.kimbsy.dispatch.lib.request.Request;
+import com.kimbsy.dispatch.lib.request.RequestType;
 import com.amazonaws.services.sqs.AmazonSQS;
 import com.amazonaws.services.sqs.AmazonSQSClientBuilder;
 import com.amazonaws.services.sqs.model.SendMessageRequest;
